@@ -3,7 +3,7 @@ The **ScreenRecorder** project has only one aim - capturing the screen and audio
 * capturing video from all screens in one;
 * capturing selected screen.
 
-# Monte Media Library
+## Monte Media Library
 Project based on Monte Media Library
 
 The Monte Media Library is a Java library for processing media data. Supported media formats include still images, video, audio and meta-data.
